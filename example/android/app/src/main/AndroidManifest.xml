@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.example">
+    package="im.video.video_editor">
    <application
         android:requestLegacyExternalStorage="true"
         android:label="example"
